@@ -1,5 +1,19 @@
 import React from "react"
 
-export default function Home() {
-  return <h1>But Cats Tho!</h1>
+const Home = () => {
+  return (
+   
+  <html lang="en">
+    <head>
+      <title>Just random stuff about cats</title>
+    </head>
+  <body>
+   <h1>But Cats Tho</h1>
+  </body>
+</html>
+    
+  )
 }
+
+
+export default Home
