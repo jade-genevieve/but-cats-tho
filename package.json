@@ -1,0 +1,24 @@
+{
+  "name": "but-cats-tho",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jade-genevieve/but-cats-tho.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jade-genevieve/but-cats-tho/issues"
+  },
+  "homepage": "https://github.com/jade-genevieve/but-cats-tho#readme",
+  "dependencies": {
+    "gatsby": "^4.16.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
